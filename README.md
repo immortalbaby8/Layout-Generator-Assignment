@@ -6,7 +6,7 @@
 
 ![ivalid output src](https://github.com/immortalbaby8/Layout-Generator-Assignment-/blob/500d656629eb88de84ad697580254810bf14e5c5/Screenshot%202026-01-15%20030514.png?raw=true)
 
-* **Image saved using save image option on the User Interface**
+* **Image saved using save image option on the User Interface(context menu-right click)**
 ![saved image](https://github.com/immortalbaby8/Layout-Generator-Assignment-/blob/4e01857444d3d40d00d97faa33281c3b52a211dc/Batch_30.png?raw=true)
 ## 📋 Features
 
