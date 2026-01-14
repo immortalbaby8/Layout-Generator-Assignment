@@ -1,6 +1,6 @@
 # Layout Generator Assignment
 
-![Project Scr](https://github.com/immortalbaby8/Layout-Generator-Assignment-/blob/main/Screenshot%202026-01-15%20025416.png?raw=true)
+![Project Scr](https://github.com/immortalbaby8/Layout-Generator-Assignment-/blob/7c30a935059ce9e8a58c8a4822f17a3e68cfaaa4/Output%20src%20image?raw=true)
 
 ![valid output src](https://github.com/immortalbaby8/Layout-Generator-Assignment-/blob/a45dfcfdcbc0705ab968f48b7f624c51c7ba44a6/Screenshot%202026-01-15%20030440.png?raw=true)
 
